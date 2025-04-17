@@ -1,5 +1,8 @@
 # Ignore VS Code settings
 .vscode/
 
+# Ignore Output folder
+output/
+
 # Ignore log files
 *.log
